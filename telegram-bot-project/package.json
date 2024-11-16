@@ -1,0 +1,10 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "mongoose": "^7.8.2",
+    "node-schedule": "^2.1.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
