@@ -5,7 +5,7 @@ const { addFile, getFiles } = require('./fileController');
 const supportHandler = require('./support');
 const scheduleMessage = require('./schedule');
 
-const TOKEN = '7835327718:AAG0aK8WyexgLccGwniQm-SCcp2pFQYhyEI';
+const TOKEN = '7835327718:AAHcPn1qw60RIdv-ai5xFHde6c-EjHaGBjM';
 const ADMIN_ID = 6087657605; // جایگزین با آیدی ادمین
 const bot = new TelegramBot(TOKEN, { polling: true });
 
